@@ -8,26 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Tommy\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\jms_s\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tommy\\Desktop\\Refactor Lab\\PigLatin\\PigLatin.csproj",
+      "projectUniqueName": "C:\\Users\\jms_s\\source\\repos\\PigLatinBuggy\\PigLatin\\PigLatin.csproj",
       "projectName": "PigLatin",
-      "projectPath": "C:\\Users\\Tommy\\Desktop\\Refactor Lab\\PigLatin\\PigLatin.csproj",
-      "packagesPath": "C:\\Users\\Tommy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tommy\\Desktop\\Refactor Lab\\PigLatin\\obj\\",
+      "projectPath": "C:\\Users\\jms_s\\source\\repos\\PigLatinBuggy\\PigLatin\\PigLatin.csproj",
+      "packagesPath": "C:\\Users\\jms_s\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jms_s\\source\\repos\\PigLatinBuggy\\PigLatin\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Tommy\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\jms_s\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
